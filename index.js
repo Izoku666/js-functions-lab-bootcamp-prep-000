@@ -1,13 +1,14 @@
 // write your code below!
 
+  var name = "you"
 function happyHolidays()
 {
   return "Happy holidays!"
 }
 
-function happyHolidaysTo(var )
+function happyHolidaysTo(name)
 {
-  var name = string
+
   return 'Happy holidays, ${name}!'
 }
 
