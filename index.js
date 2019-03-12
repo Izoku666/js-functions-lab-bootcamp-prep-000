@@ -5,8 +5,10 @@ function happyHolidays()
   return "Happy holidays!"
 }
 
-function happyHolidaysTo(string)
+function happyHolidaysTo(var )
 {
   var name = string
   return 'Happy holidays, ${name}!'
 }
+
+function holidayCountdown(string , )
