@@ -10,7 +10,10 @@ function happyHolidaysTo(name)
   return 'Happy holidays, ${name}!'
 }
 
-function
+function happyHolidaysTo(holiday , name)
+{
+  return "Happy ${holiday}, ${name}!"
+}
 function holidayCountdown(holiday , name)
 {
   return "It's ${days} days until ${holiday}!"
